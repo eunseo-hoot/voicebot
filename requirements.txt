@@ -1,5 +1,5 @@
+streamlit==1.45.1
+streamlit-webrtc==0.45.3
+openai==1.33.0
 gTTS==2.5.4
 numpy==2.3.0
-openai==1.86.0
-streamlit==1.45.1
-streamlit-audiorecorder==0.0.6
